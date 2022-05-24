@@ -1,4 +1,5 @@
-# ![Markdown Here logo](https://platform9.com/wp-content/uploads/2018/09/JVM-logo.png) Resources to learn about JVM internals
+# ![Markdown Here logo](https://platform9.com/wp-content/uploads/2018/09/JVM-logo.png) 
+## Free resources to learn about JVM internals
 
 
 [**Java Language and Virtual Machine Specifications**](https://docs.oracle.com/javase/specs/)<br>
